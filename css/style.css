@@ -1,0 +1,54 @@
+.slider h3, 
+.slider h5, 
+.clients h3{
+	text-shadow:1px 1px 3px rgba(0,0,0,.5);
+}
+
+.parallax-container{
+	height: 20%;
+}
+
+.parallax img{
+	filter: grayscale(1);
+	opacity: 0.5 !important;
+}
+
+.clients img{
+	margin:-30px;
+	max-width: 150px;
+	filter: drop-shadow(1px 1px 1px rgba(0,0,0,.8));
+}
+
+.service{
+	padding: 20px 0;
+}
+
+.link{
+	text-decoration: none;
+	color: #666;
+}
+
+.service{
+	margin-top:-20px;
+}
+
+.service img{
+	padding-top:20px 0;
+}
+
+.Portfolio img{
+	margin: 10px 0;
+}
+
+.contact h3{
+	padding-top: 20px;
+}
+
+section{
+	padding: 2px 0;
+}
+
+footer p{
+	color: white;
+}
+
